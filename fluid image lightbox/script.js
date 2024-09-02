@@ -19,4 +19,9 @@ modal.addEventListener("click", (e) => {
     modal.classList.remove("open");
     original.classList.remove("open");
   }
-});
+});//////
+/////////////////////
+///////////////
+///////////
+////////////
+///////////
